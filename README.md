@@ -6,13 +6,13 @@ described in [http://developer.empatica.com/windows-ble-server.html].
 
 This code was developed as a part of a research project that resulted in the following publication, please cite this work if u find it useful:
 ```
-> @inproceedings{saha2017affective,  
->     title={Affective Feedback in a Virtual Reality based Intelligent Supermarket},  
->     author={Saha, Deba Pratim and Martin, Thomas L. and Knapp, R. Benjamin},  
->     booktitle={Adjunct Proceedings of UbiComp 2017, ACM Joint Conference on Pervasive and Ubiquitous Computing, Maui, Hawai'i, USA},  
->     year={2017},  
->     organization={ACM}  
-> }
+@inproceedings{saha2017affective,  
+     title={Affective Feedback in a Virtual Reality based Intelligent Supermarket},  
+     author={Saha, Deba Pratim and Martin, Thomas L. and Knapp, R. Benjamin},  
+     booktitle={Adjunct Proceedings of UbiComp 2017, ACM Joint Conference on Pervasive and Ubiquitous Computing, Maui, Hawai'i, USA},  
+     year={2017},  
+     organization={ACM}  
+}
 ```
 
 ## How to use:
