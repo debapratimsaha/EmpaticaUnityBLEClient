@@ -4,6 +4,18 @@ Empatica BLE Client for Unity 3D Engine, developed at ICAT, Virginia Tech
 This software provide a Unity 3D Engine based GUI to communicate with the Empatica Windows BLE Server, whose working is 
 described in [http://developer.empatica.com/windows-ble-server.html]. 
 
+This code was developed as a part of a research project that resulted in the following publication, please cite this work if u find it useful:
+```
+> @inproceedings{saha2017affective,  
+>     title={Affective Feedback in a Virtual Reality based Intelligent Supermarket},  
+>     author={Saha, Deba Pratim and Martin, Thomas L. and Knapp, R. Benjamin},  
+>     booktitle={Adjunct Proceedings of UbiComp 2017, ACM Joint Conference on Pervasive and Ubiquitous Computing, Maui, Hawai'i, USA},  
+>     year={2017},  
+>     organization={ACM}  
+> }
+```
+
+## How to use:
 Pre-requisite: 
 It assumes Empatica BLE Server for Windows is already installed, running and connected to the Empatica E4 device(s) intended to communicate with.
 
